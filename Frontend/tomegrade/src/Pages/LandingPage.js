@@ -35,7 +35,7 @@ function LandingPage() {
                 <ul className="home-link">
          
                   <li className=''>
-                    <a href="/">Tome Grad</a>
+                    <a href="/" className='brand-name'>Tome Grad</a>
                     <SearchField
       classNames="searchbox"
       placeholder="Search books"

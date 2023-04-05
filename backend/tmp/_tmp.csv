@@ -1,0 +1,339 @@
+Semester,Department,Course_Name,,Textbook_Name
+,,,,
+S3,ECE,MAT201,,
+S3,ECE,ECT 201,,"Ben G. Streetman and Sanjay Kumar Banerjee, Solid State Electronic Devices, Pearson 6/e, 2010 (Modules I, II and III)"
+S3,ECE,ECT 201,,"Sung Mo Kang, CMOS Digital Integrated Circuits: Analysis and Design, McGraw-Hill, Third Ed., 2002 (Modules IV and V)"
+S3,ECE,ECT 203,,"Mano M.M., Ciletti M.D., “Digital Design”, Pearson India, 4th Edition. 2006"
+S3,ECE,ECT 203,,"D.V. Hall, “Digital Circuits and Systems”, Tata McGraw Hill, 1989"
+S3,ECE,ECT 203,,"S. Brown, Z. Vranesic, “Fundamentals of Digital Logic with Verilog Design”, McGraw Hill"
+S3,ECE,ECT 205,,"Edminister, “Electric Circuits – Schaum’s Outline Series”, McGraw-Hill, 2009."
+S3,ECE,ECT 205,,"W. Hayt, J. Kemmerly, J. Phillips, S. Durbin, “Engineering Circuit Analysis,” McGraw Hill."
+S3,ECE,ECT 205,,"K. S. Suresh Kumar, “Electric Circuits and Networks”, Pearson, 2008."
+S3,ECE,EST200,,
+S3,ECE,HUT200,,
+S3,ECE,MCN201,,
+S4,ECE,MAT 204,,
+S4,ECE,ECT 202,,"Robert Boylestad and L Nashelsky, “Electronic Devices and Circuit Theory”, 11/e Pearson, 2015."
+S4,ECE,ECT 202,,"Sedra A. S. and K. C. Smith, “Microelectronic Circuits”, 6/e, Oxford University Press, 2013."
+S4,ECE,ECT 204,,"Alan V. Oppenheim and Alan Willsky, Signals and Systems, PHI, 2/e, 2009"
+S4,ECE,ECT 204,,"Simon Haykin, Signals & Systems, John Wiley, 2/e, 2003"
+S4,ECE,ECT 206,,"Mano M M, Computer System Architecture, 3rd Ed, Prentice Hall of India."
+S4,ECE,ECT 206,,"Computer organization and design: The Hardware/Software interface/David A. Patterson, John L. Hennessy. — 5th ed."
+S4,ECE,ECT 206,,"Computer Organisation V. Carl Hamacher, Zvonko G. Vranesic, Safwat G.Zaky."
+S4,ECE,MCN202,,
+S5,ECE,ECT 301,,"Roy D. C. and S. B. Jain, Linear Integrated Circuits, New Age International, 3/e, 2010"
+S5,ECE,ECT 303,,"Proakis J. G. and Manolakis D. G., Digital Signal Processing, 4/e, Pearson Education, 2007"
+S5,ECE,ECT 303,,"Alan V Oppenheim, Ronald W. Schafer ,Discrete-Time Signal Processing, 3rd Edition , Pearson ,2010"
+S5,ECE,ECT 303,,"Mitra S. K., Digital Signal Processing: A Computer Based Approach, 4/e McGraw Hill (India) 2014"
+S5,ECE,ECT 305,,"“Principles of Digital Communication,” R. Gallager, Oxford University Press"
+S5,ECE,ECT 305,,"“Digital Communication”, John G Proakis, Wiley."
+S5,ECE,ECT 307,,"Farid Golnaraghi, Benjamin C. Kuo, Automatic Control Systems, 9/e, Wiley India"
+S5,ECE,ECT 307,,"I.J. Nagarath, M.Gopal: Control Systems Engineering (5th-Edition) ––New Age International Pub. Co., 2007."
+S5,ECE,ECT 307,,"Ogata K., Discrete-time Control Systems, 2/e, Pearson Education."
+S5,ECE,HUT300,,
+S5,ECE,HUT310,,
+S5,ECE,MCN301,,
+S6,ECE,ECT 302,,"John D. Kraus, Electromagnetics, 5/e, TMH, 2010."
+S6,ECE,ECT 302,,"Mathew N O Sadiku, Elements of Electromagnetics, Oxford University Press, 6/e, 2014."
+S6,ECE,ECT 302,,"William, H. Hayt, and John A. Buck. Engineering Electromagnetics. McGraw-Hill, 8/e McGraw-Hill, 2014."
+S6,ECE,ECT 304,,"Sung –Mo Kang & Yusuf Leblebici, CMOS Digital Integrated Circuits- Analysis & Design, McGraw-Hill, Third Ed., 2003"
+S6,ECE,ECT 304,,"S.M. SZE, VLSI Technology, 2/e, Indian Edition, McGraw-Hill,2003"
+S6,ECE,ECT 304,,"Wayne Wolf ,Modern VLSI design, Third Edition, Pearson Education,2002."
+S6,ECE,ECT 306,,"“Elements of Information Theory”, Joy A Thomas, Thomas M Cover, Wiley-Interscience."
+S6,ECE,ECT 306,,"“Information Theory, Inference and Learning Algorithms”, David JC McKay, Cambridge University Press"
+S6,ECE,ECT 306,,"“Principles of digital communication”, RG Gallager, Cambridge University Press"
+S6,ECE,ECTXXX,,
+S6,ECE,ECT 308,,
+S7,ECE,ECT 401,,"John D. Krauss, Antennas for all Applications, 3/e, TMH."
+S7,ECE,ECT 401,,"Balanis, Antenna Theory and Design, 3/e, Wiley Publications."
+S7,ECE,ECT 401,,"K D Prasad, Antenna and Wave Propagation, Satyaprakash Publications"
+S7,ECE,ECTXXX,,
+S7,ECE,ECTXXX,,
+S7,ECE,MCN401,,
+S8,ECE,ECT 402,,"Andrea Goldsmith, Wireless Communications, Cambridge University Press, 2005"
+S8,ECE,ECT 402,,"Theodore S. Rappaport, Wireless communication: Principles and Practice, 2/e, Pearson Education, 1990"
+S8,ECE,ECT 402,,"Aditya Jagannatham, Principles of Modern Wireless Communication Systems, Mc Graw Hill, 2017."
+S8,ECE,ECTXXX,,
+S8,ECE,ECTXXX,,
+S8,ECE,ECTXXX,,
+,,,,
+S3,CS,MAT 203,,"Discrete and Combinatorial Mathematics (An Applied Introduction), Ralph P Grimaldi, B V Ramana , 5th Edition, Pearson"
+S3,CS,CST 201,,"Ellis Horowitz, Sartaj Sahni and Susan Anderson-Freed, Universities Press, Fundamentals of Data Structures in C"
+S3,CS,CST 203,,"M. Morris Mano, Digital Logic & Computer Design, 4/e, Pearson Education, 2013"
+S3,CS,CST 203,,"Thomas L Floyd, Digital Fundamentals, 10/e, Pearson Education, 2009."
+S3,CS,CST 203,,"M. Morris Mano, Computer System Architecture, 3/e, Pearson Education, 2007."
+S3,CS,CST 205,,"Herbert Schildt, Java: The Complete Reference, 8/e, Tata McGraw Hill, 2011."
+S3,CS,CST 205,,"Rajib Mall, Fundamentals of Software Engineering, 4th edition, PHI, 2014."
+S3,CS,CST 205,,"Paul Deitel, Harvey Deitel, Java How to Program, Early Objects 11th Edition, Pearson, 2018."
+S3,CS,EST 200,,
+S3,CS,HUT 200,,
+S3,CS,MCN 201,,
+S4,CS,MAT 206,,"Narsingh Deo, Graph theory, PHI,1979"
+S4,CS,CST 202,,"Hamacher C., Z. Vranesic and S. Zaky, Computer Organization ,5/e, McGraw Hill, 2011"
+S4,CS,CST 202,,"Mano M. M., Digital Logic & Computer Design, PHI, 2004"
+S4,CS,CST 202,,"KaiHwang, Faye Alye Briggs, Computer architecture and parallel processing McGrawHill, 1984"
+S4,CS,CST 204,,"Elmasri R. and S. Navathe, Database Systems: Models, Languages, Design and Application Programming, Pearson Education, 2013."
+S4,CS,CST 204,,"Sliberschatz A., H. F. Korth and S. Sudarshan, Database System Concepts, 6/e, McGraw Hill, 2011."
+S4,CS,CST 206,,"Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, ' Operating System Concepts' 9th Edition, Wiley India 2015."
+S4,CS,MCN 202,,
+S5,CS,CST 301,,"Dexter C. Kozen, Automata and Computability, Springer (1999)"
+S5,CS,CST 303,,"Andrew S. Tanenbaum, Computer Networks, 4/e, PHI (Prentice Hall India)."
+S5,CS,CST 303,,"Behrouz A Forouzan, Data Communication and Networking, 4/e, Tata McGraw Hill"
+S5,CS,CST 305,,"Leland L. Beck, System Software: An Introduction to Systems Programming, 3/E, Pearson Education Asia"
+S5,CS,CST 307,,"Bhurchandi and Ray, Advanced Microprocessors and Peripherals, Third Edition McGraw Hill."
+S5,CS,CST 307,,"Raj Kamal, Microcontrollers: Architecture, Programming, Interfacing and System Design, Pearson Education."
+S5,CS,CST 307,,"Ramesh Gaonkar, Microprocessor Architecture, Programming, and Applications with the 8085, Penram International Publishing Pvt. Ltd."
+S5,CS,CST 309,,"Book 1 - Ian Sommerville, Software Engineering, Pearson Education, Tenth edition, 2015."
+S5,CS,CST 309,,"Book 2 - Roger S. Pressman, Software Engineering : A practitioner’s approach, McGraw Hill publication, Eighth edition, 2014"
+S5,CS,CST 309,,"Book 3 - Ian Sommerville, Engineering Software Products: An Introduction to Modern Software Engineering, Pearson Education, First Edition, 2020."
+S5,CS,MCN 301,,
+S6,CS,CST 302,,"Aho A.V., Ravi Sethi and D. Ullman. Compilers – Principles Techniques and Tools, Addison Wesley, 2006."
+S6,CS,CST 304,,"Donald Hearn and M. Pauline Baker, Computer Graphics, PHI, 2e, 1996"
+S6,CS,CST 304,,"Rafael C. Gonzalez and Richard E. Woods, Digital Image Processing. Pearson, 4e, 2017"
+S6,CS,CST 306,,"T.H.Cormen, C.E.Leiserson, R.L.Rivest, C. Stein, Introduction to Algorithms, 2nd Edition, Prentice-Hall India (2001)"
+S6,CS,CST 306,,"Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran, “Fundamentals of Computer Algorithms”, 2nd Edition, Orient Longman Universities Press (2008)"
+S6,CS,CST 306,,"Sara Baase and Allen Van Gelder ―Computer Algorithms, Introduction to Design and Analysis, 3rd Edition, Pearson Education (2009)"
+S6,CS,HUT 300,,
+S7,CS,CST 401,,"Stuart Russell and Peter Norvig. Artificial Intelligence: A Modern Approach, 3rd Edition. Prentice Hall."
+S7,CS,MCN 401,,
+S8,CS,CST 402,,"Ajay D. Kshemkalyani and Mukesh Singhal, Distributed Computing: Principles, Algorithms, and Systems, Cambridge University Press, 2011."
+,,,,
+S3,EEE,MAT201,,
+S3,EEE,EET201,,"Joseph A. Edminister and MahmoodNahvi, ""Theory and Problems in Electric circuits"", McGraw Hill, 5th Edition, 2010."
+S3,EEE,EET201,,"Ravish R. Singh, ""Network Analysis and Synthesis"", McGraw-Hill Education, 2013"
+S3,EEE,EET203,,"Sawhney A.K., A course in Electrical and Electronic Measurements & instrumentation, DhanpatRai."
+S3,EEE,EET203,,"J. B. Gupta, A course in Electrical & Electronic Measurement & Instrumentation., S K Kataria& Sons"
+S3,EEE,EET203,,"Kalsi H. S., Electronic Instrumentation, 3/e, Tata McGraw Hill, New Delhi, 2012"
+S3,EEE,EET205,,"Bell D. A., Electronic Devices and Circuits, Prentice Hall ofIndia, 2007."
+S3,EEE,EET205,,"Malvino A. and D. J. Bates, Electronic Principles7/e, Tata McGraw Hill, 2010."
+S3,EEE,EET205,,"Boylestad R. L. and L. Nashelsky,Electronic Devices and CircuitTheory, 10/e, PearsonEducation India, 2009."
+S3,EEE,EST200,,
+S3,EEE,HUT200,,
+S3,EEE,MCN201,,
+S4,EEE,MAT 204,,
+S4,EEE,EET202,,"Bimbra P. S., Electrical Machinery, 7/e, Khanna Publishers, 2011."
+S4,EEE,EET202,,"Nagrath J. and D. P. Kothari, Theory of AC Machines, Tata McGraw Hill, 2017"
+S4,EEE,EET204,,"Matthew N.O. Sadiku, Principles of Electromagnetics, Oxford University Press, 6th Edition."
+S4,EEE,EET204,,"Hayt W. H. and J. A. Buck, Engineering Electromagnetics, McGraw-Hill, 8th Edition."
+S4,EEE,EET206,,"Floyd T.L, Digital Fundamentals, 10/e, Pearson Education, 2011."
+S4,EEE,EET206,,"C.H.Roth and L.L.Kimney Fundamentals of Logic Design, 7/e, Cengage Learning, 2013."
+S4,EEE,EET206,,"Mano M.M, Logic and Computer Design Fundamentals, 4/e, Pearson Education."
+S4,EEE,MCN202,,
+S5,EEE,EET301,,"Cotton H. and H. Barber, Transmission & Distribution of Electrical Energy, 3/e, Hodder and Stoughton, 1978."
+S5,EEE,EET301,,"Gupta J.B., Transmission & Distribution of Electrical Power, S.K. Kataria& Sons, 2009."
+S5,EEE,EET301,,"Kothari D. P. and I. J. Nagrath, Power System Engineering, McGraw Hill, 3rd Edition, 2019"
+S5,EEE,EET303,,"Ramesh Gaonkar, “Microprocessor Architecture Programming and Applications”, Penram International Publishing; Sixth edition, 2014."
+S5,EEE,EET303,,"Mohamed Ali Mazidi, Janice GillispieMazidi, “The 8051 microcontroller and embedded systems using Assembly and C”, second edition, Pearson/Prentice hall of India"
+S5,EEE,EET303,,"Kenneth J. Ayala, “The 8051 microcontroller”, 3rd edition, Cengage Learning, 2010"
+S5,EEE,EET305,,"Oppenheim A.V., Willsky A.S. & Nawab S.H., Signals and Systems, 2/e, Prentice Hall"
+S5,EEE,EET305,,"Nagrarth I. J, Saran S. N and Ranjan R, Signals and Systems, 2/e, Tata McGraw Hill"
+S5,EEE,EET305,,"Haykin S. & Veen B.V., Signals & Systems, 2/e, John Wiley"
+S5,EEE,EET307,,"Bimbra P S, Electric Machines, Khanna Publishers, 2ndedition, 2017."
+S5,EEE,EET307,,"KothariD. P., NagrathI. J., Electric Machines, Tata McGraw Hill, 5thedition.2017."
+S5,EEE,EET307,,"Say M G, The Performance and Design of AC Machines, CBS Publishers, New Delhi, 3rdedition, 2002."
+S5,EEE,HUT300,,
+S5,EEE,HUT310,,
+S5,EEE,MCN301,,
+S6,EEE,EET302,,"Nagarath I. J. and Gopal M., Control System Engineering, 5/e, New Age Publishers"
+S6,EEE,EET302,,"Ogata K, Modern Control Engineering, 5/e, Prentice Hall of India."
+S6,EEE,EET302,,"Nise N. S, Control Systems Engineering, 6/e, Wiley Eastern"
+S6,EEE,EET304,,"Hadi Saadat, Power System Analysis, 2/e, McGraw Hill, 2002."
+S6,EEE,EET304,,"D. P. Kothari and I. J. Nagrath, Modern Power System Analysis, 2/e, TMH, 2009."
+S6,EEE,EET304,,"Kundur P., Power system Stability and Control, McGraw Hill, 2006"
+S6,EEE,EET306,,"Muhammad H. Rashid, Power Electronics Circuits, Devices and Applications, Pearson Education"
+S6,EEE,EET306,,"Daniel W. Hart, Power Electronics, Tata McGraw-Hill Education"
+S6,EEE,EET306,,"P.S. Bimbhra, Power Electronics, Khanna Publishers, New Delhi"
+S7,EEE,EET401,,"Nagarath I. J. and Gopal M., Control System Engineering, 5/e, New Age Publishers, 2007"
+S7,EEE,EET401,,"Ogata K., Modern Control Engineering, 5/e, Prentice Hall of India, 2010."
+S7,EEE,EET401,,"Gopal M, Modern Control System Theory, 2/e, New Age Publishers, 1984"
+S7,EEE,MCN401,,
+S8,EEE,EET402,,"National Lighting Code 2010, Bureau of Indian Standards."
+S8,EEE,EET402,,"National Electrical Code 2011, Bureau of Indian Standards."
+S8,EEE,EET402,,National Building Code of INDIA 2016 - Bureau of Indian Standards.
+,,,,
+S3,CE,MAT201,,
+S3,CE,CET201,,"H. J. Shah andS. B. Junnarkar, Mechanics of Structures Vol - I, Charotar Publishing House"
+S3,CE,CET201,,"R. K. Bansal, A Text book of Strength of Materials, Laxmi Publications (P) Ltd, New Delhi"
+S3,CE,CET201,,"B. C. Punmia, Ashok K. Jain, Arun Kumar Jain, Mechanics of Materials, Laxmi Publications (P) Ltd, New Delhi."
+S3,CE,CET203,,"Modi P. N. and S. M. Seth, Hydraulics & Fluid Mechanics, S.B.H Publishers, New Delhi, 2002."
+S3,CE,CET203,,"Subramanya K., Theory and Applications of Fluid Mechanics, Tata McGraw-Hill, 1993."
+S3,CE,CET203,,"Subramanya K., Flow in Open channels, Tata McGraw-Hill, 2009."
+S3,CE,CET205,,"Dr. B.C. Punmia , Ashok Kumar Jain &Arun Kumar Jain - Surveying , Laxmi publications (P) Ltd , 2005"
+S3,CE,CET205,,"Chang,K , “Introduction to Geographic Information Systems”, Tata McGraw-Hill Publishing Co. Ltd, 2008"
+S3,CE,CET205,,"George Joseph, “Fundamentals of Remote Sensing”, University Press, 2003"
+S3,CE,EST200,,
+S3,CE,HUT200,,
+S3,CE,MCN201,,
+S4,CE,MAT202,,
+S4,CE,CET202,,"Duggal S.K, Pandey H.K and Rawat N (2014) Engineering Geology, Mcgraw Hill Education NewDelhi"
+S4,CE,CET202,,"Gokhale KVGK (2015) Principles of Engineering Geology, BS Publications, Hyderabad"
+S4,CE,CET202,,"Singh P (2014) Engineering and General Geology, SK Kataria and sons, NewDelhi"
+S4,CE,CET204,,"Ranjan G. and A. S. R. Rao, Basic and Applied Soil Mechanics, New Age International, 2002."
+S4,CE,CET204,,"Arora K. R., Geotechnical Engineering, Standard Publishers, 2006."
+S4,CE,CET206,,"Khanna, S.K. and Justo C.E.G., Highway Engineering, Nem Chand & Bros., 2015"
+S4,CE,CET206,,"Kadiyali, L. R. and N.B Lal, Principles and Practices of Highway Engineering, Khanna Publishers, 2013"
+S4,CE,CET206,,"hanna, S. K. and Arora. M. G., Airport Planning and Design, Nemchand& Bros"
+S4,CE,MCN202,,
+S5,CE,CET301,,"Gere and Timoshenko, Mechanics of materials, CBS Publishers"
+S5,CE,CET301,,"Kenneth Leet, Chia M Uang & Anne M Gilbert, Fundamentals of Structural Analysis, McGraw Hill"
+S5,CE,CET301,,"R.Vaidyanathan and P.Perumal, Comprehensive Structural Analysis Volume I & II, Laxmi"
+S5,CE,CET303,,"Punmia, B. C, Jain A.K and, Jain A.K , R C C Designs, Laxmi Publications Ltd., 10e, 2015"
+S5,CE,CET305,,"Ranjan G. and A. S. R. Rao, Basic and Applied Soil Mechanics, New Age International, 2002."
+S5,CE,CET305,,"Arora K. R., Geotechnical Engineering, Standard Publishers, 2006"
+S5,CE,CET307,,"Modi P. N. Irrigation, Water Resources and Water Power Engineering, S.B.H Publishers and Distributors New Delhi 2009."
+S5,CE,CET307,,"Punmia B.C. Ashok K Jain, Arun K Jain, B. B. L Pande, Irrigation and Water Power Engineering, Laxmi Publications (P) Ltd. 2009"
+S5,CE,CET309,,"Shetty M.S. and A. K. Jain (2019), Concrete Technology: Theory and Practice, S. Chand &Company Pvt. Ltd."
+S5,CE,CET309,,"Varghese P. C. (2007), Building Construction, Prentice Hall India."
+S5,CE,CET309,,"Punmia B. C., Ashok Kumar Jain and Arun Kumar Jain (2016), Building Construction, Laxmi Publications (P) Ltd."
+S5,CE,MCN301,,
+S6,CE,CET302,,"James M Gere & William Weaver, Matrix Analysis of Framed Structures - (CBS Publishers)"
+S6,CE,CET302,,"Mechanics of Structures Vol I & II, Junnarkar S.B., Charotar Publishing House"
+S6,CE,CET302,,"Devdas Menon, Structural Analysis, Narosa Publications"
+S6,CE,CET304,,"Howard S Peavy, Donald R Rowe and George Tchobanoglous, Environmental Engineering, Mc Graw Hill Education , 2013"
+S6,CE,CET304,,"Mackenzie L Davis, David A Cornwell, Introduction to Environmental"
+S6,CE,CET304,,"S.K.Garg, Water Supply Engineering, Khanna Publishers. 2010"
+S6,CE,CET306,,"Sathyanarayana M. C. Water Resources Engineering-Principles and Practice, New Age International Publishers. 2009"
+S6,CE,CET306,,"Garg S.K., Irrigation Engineering and Hydraulic Structures, Khanna Publishers, New Delhi 2006."
+S6,CE,CET306,,"KR Arora. Irrigation, Water Resources and Water Power Engineering, S.B.H Publishers and Distributors, New Delhi. 2010."
+S6,CE,HUT300,,
+S7,CE,CET401,,"Punmia B. C., Jain A. K. and Jain A. K., Design of Steel Structures, Laxmi Publications (P) Ltd, 2017"
+S7,CE,CET401,,"Ramchandra S and Virendra Gehlot, Design of Steel Structures Vol. II, Standard Book House, 2007"
+S7,CE,MCN401,,
+S8,CE,CET402,,"B. N. Dutta, Estimation and costing in civil engineering, UBS publishers"
+S8,CE,CET402,,"Rangwala, Estimation Costing and Valuation,Charotar publishing house pvt. ltd"
+S8,CE,CET402,,"Dr. S. Seetha Raman, M.Chinna swami, Estimation and quantity surveying, Anuradha publications Chennai."
+,,,,
+S3,ME,MAT201,,
+S3,ME,MET201,,"Mechanics of materials in S.I. Units, R .C. Hibbeler, Pearson Higher Education 2018"
+S3,ME,MET201,,"Advanced Mechanics of Solids, L. S. Srinath, McGraw Hill Education"
+S3,ME,MET201,,"Design of Machine Elements, V. B Bhandari, McGraw Hill Education"
+S3,ME,MET203,,"John. M. Cimbala and Yunus A. Cengel, Fluid Mechanics: Fundamentals and Applications (4th edition, SIE), 2019"
+S3,ME,MET203,,"Robert W. Fox, Alan T. McDonald, Philip J. Pritchard and John W. Mitchell, Fluid Mechanics, Wiley India, 2018"
+S3,ME,MET205,,"Callister William. D., Material Science and Engineering, John Wiley, 2014"
+S3,ME,MET205,,"Higgins R.A. - Engineering Metallurgy part - I – ELBS,1998"
+S3,ME,EST200,,
+S3,ME,HUT200,,
+S3,ME,MCN201,,
+S4,ME,MAT202,,"P. K. Nag, Engineering Thermodynamics, McGraw Hill, 2013"
+S4,ME,MAT202,,"E. Rathakrishnan Fundamentals of Engineering Thermodynamics, PHI, 2005"
+S4,ME,MAT202,,"Y. A. Cengel and M. A. Boles, Thermodynamics an Engineering Approach, McGraw Hill, 2011"
+S4,ME,MET204,,"Donalson cyril, LeCain, Goold, Ghose:- Tool design, McGraw Hill."
+S4,ME,MET204,,"Serope Kalpakjian, Steven R. Schmid - Manufacturing Engineering and Technology, Pearson."
+S4,ME,MET206,,"Subramanya, K., Hydraulic Machines, Tata McGraw Hill, 1st edition, 2017"
+S4,ME,MET206,,"Rathore, M., Thermal Engineering, Tata McGraw Hill, 1st edition, 2010"
+S4,ME,MCN202,,
+S5,ME,MET301,,"Ballaney P. L., Theory of Machines and Mechanisms, Khanna Publishers,2005"
+S5,ME,MET301,,"S. S. Rattan, Theory of Machines, Tata Mc Graw Hill,2009"
+S5,ME,MET303,,"Rudramoorthy , Thermal Engineering, McGraw Hill Education India, 2003."
+S5,ME,MET303,,"R.K Rajput, Thermal Engineering, Laxmi publications, 2010"
+S5,ME,MET303,,"Arora C. P, Refrigeration and Air-Conditioning, McGraw-Hill, 2008."
+S5,ME,MET305,,"Martand T. Telsang, “Industrial Engineering & Production Management”, S. Chand and Company Limited, 2018."
+S5,ME,MET305,,"M. Mahajan, “Industrial Engineering & Production Management”, Dhanpat Rai & Co. (P) Limited, 2015."
+S5,ME,MET305,,"O. P. Khanna, “Industrial Engineering and Management”, Dhanpat Rai Publications, 2018."
+S5,ME,MET307,,"Chapman W. A. J., Workshop Technology, Viva books (P) Ltd"
+S5,ME,MET307,,"HMT, Production Technology, Tata McGraw-Hill"
+S5,ME,MET307,,"Engineering Metrology and Measurements, N.V. Raghavendra, l. Krishnamurthy, oxford university press"
+S5,ME,HUT300,,
+S5,ME,HUT310,,
+S5,ME,MCN301,,
+S6,ME,MET302,,"Sachdeva R.C., Fundamentals of Engineering Heat and Mass Transfer, New Age Science Limited, 2009"
+S6,ME,MET302,,"R.K.Rajput. Heat and mass transfer, S.Chand &Co., 2015"
+S6,ME,MET302,,"Nag P.K., Heat and Mass Transfer, McGrawHill, 2011"
+S6,ME,MET304,,"Ballaney, P. L. Theory of machines and mechanisms. Khanna Publishers, 2010."
+S6,ME,MET304,,". Rattan S S, Theory of Machines, Tata McGraw-Hill Education, 2005."
+S6,ME,MET304,,"Bhandari V B, Design of Machine Elements, Tata McGraw-Hill Education, 2010."
+S6,ME,MET306,,"YoramKoren, Computer control of manufacturing systems, TMH"
+S6,ME,MET306,,"Jain V.K., Introduction to Micromachining, Narosa publishers"
+S6,ME,MET306,,"Davies K and Austin E.R, Developments in high speed metal forming, the machinery publishing Co, 1970, SBN -853332053"
+S7,ME,MET401,,"Mahadevan, K., and K. Balaveera Reddy, Design Data Handbook, Mechanical Engineers in SI and Metric Units. CBS Publishers & Distributors, New Delhi, 2018."
+S7,ME,MET401,,"NarayanaIyengar B.R &Lingaiah K, Machine Design Data Handbook, Tata McGraw Hill/Suma Publications, 1984"
+S7,ME,MET401,,"PSG Design Data, DPV Printers, Coimbatore, 2012"
+S7,ME,MCN401,,
+S8,ME,MET402,,"Bolton W., Mechatronics: Electronic Control Systems in Mechanical and Electrical Engineering, Person Education Limited, New Delhi, 2007"
+S8,ME,MET402,,"Ramachandran K. P., G. K. Vijayaraghavan, M. S. Balasundaram, Mechatronics: Integrated Mechanical Electronic Systems, Wiley India Pvt. Ltd., New Delhi, 2008."
+S8,ME,MET402,,"Saeed B. Niku, Introduction to Robotics: Analysis, Systems, Applications, Person Education, Inc., New Delhi, 2006"
+,,,,
+S3,AI,MAT 203,,"Discrete and Combinatorial Mathematics (An Applied Introduction), Ralph P Grimaldi, B V Ramana , 5th Edition, Pearson"
+S3,AI,CST 201,,"Ellis Horowitz, Sartaj Sahni and Susan Anderson-Freed, Universities Press, Fundamentals of Data Structures in C"
+S3,AI,CST 203,,"M. Morris Mano, Digital Logic & Computer Design, 4/e, Pearson Education, 2013"
+S3,AI,CST 203,,"Thomas L Floyd, Digital Fundamentals, 10/e, Pearson Education, 2009."
+S3,AI,CST 203,,"M. Morris Mano, Computer System Architecture, 3/e, Pearson Education, 2007."
+S3,AI,CST 205,,"Herbert Schildt, Java: The Complete Reference, 8/e, Tata McGraw Hill, 2011."
+S3,AI,CST 205,,"Rajib Mall, Fundamentals of Software Engineering, 4th edition, PHI, 2014."
+S3,AI,CST 205,,"Paul Deitel, Harvey Deitel, Java How to Program, Early Objects 11th Edition, Pearson, 2018."
+S3,AI,EST 200,,
+S3,AI,HUT 200,,
+S3,AI,MCN 201,,
+S4,AI,MAT 236,,"Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong published by Cambridge University Press (freely available at https:// mml - book.github.io)"
+S4,AI,CST 202,,"Hamacher C., Z. Vranesic and S. Zaky, Computer Organization ,5/e, McGraw Hill, 2011"
+S4,AI,CST 202,,"Mano M. M., Digital Logic & Computer Design, PHI, 2004"
+S4,AI,CST 202,,"KaiHwang, Faye Alye Briggs, Computer architecture and parallel processing McGrawHill, 1984"
+S4,AI,CST 204,,"Elmasri R. and S. Navathe, Database Systems: Models, Languages, Design and Application Programming, Pearson Education, 2013."
+S4,AI,CST 204,,"Sliberschatz A., H. F. Korth and S. Sudarshan, Database System Concepts, 6/e, McGraw Hill, 2011."
+S4,AI,CST 206,,"Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, ' Operating System Concepts' 9th Edition, Wiley India 2015."
+S4,AI,MCN 202,,
+S5,AI,AIT 301,,
+S5,AI,CST 303,,
+S5,AI,AMT 305,,
+S5,AI,AIT 307,,
+S5,AI,CST 309,,
+S5,AI,MCN 301,,
+S6,AI,AIT 302,,
+S6,AI,AIT 304,,
+S6,AI,CST 306,,
+S6,AI,HUT 300,,
+S7,AI,AIT 401,,
+S7,AI,MCN 401,,
+S8,AI,AIT 402,,
+,,,,
+S3,BIOMEDICAL,MAT201,,
+S3,BIOMEDICAL,BMT201,,"Laura lee Sherwood, Human Physiology: From Cells to Systems, Brooks/Cole, Cengage Learning."
+S3,BIOMEDICAL,BMT201,,"Arthur C. Guyton, Textbook of Medical Physiology, Prism Books (Pvt) Ltd & W.B. Saunders Company."
+S3,BIOMEDICAL,BMT203,,"Thomas L Floyd , Digital Fundamentals, 9th edition , pearson"
+S3,BIOMEDICAL,BMT203,,"Charles . H. Roth, Jr. Fundamentals of Logic design, 5thedition,Thomson books /cole"
+S3,BIOMEDICAL,BMT203,,"A.Anandkumar,Fundamentals of Digital Circuits,PHIlearning,2/e 2010."
+S3,BIOMEDICAL,BMT205,,"R L Boylestad and Nachelsky: Electronic Devices & Circuit Theory, 10thEd.Pearson.."
+S3,BIOMEDICAL,BMT205,,"David A. bell : Electronic Devices and Circuits, 5th Edition."
+S3,BIOMEDICAL,BMT205,,"Ramakant A. Gayakwad, “OP-AMP and Linear ICs”, 4th Edition, Prentice Hall / Pearson Education, 2001."
+S3,BIOMEDICAL,EST200,,
+S3,BIOMEDICAL,HUT200,,
+S3,BIOMEDICAL,MCN201,,
+S4,BIOMEDICAL,MAT202,,
+S4,BIOMEDICAL,BMT202,,"Muhammed Ali Mazidi and Janice GillispieMazidi, “The 8051 Microcontroller and Embedded Systems using Assembly and C”, Pearson Education, 2e."
+S4,BIOMEDICAL,BMT202,,"John B. Peatman, “Design with PIC microcontrollers”Pearson Education, Inc. ISBN: 978-81-7758- 551-3"
+S4,BIOMEDICAL,BMT202,,"Mark Torvalds, “Arduino Programming: Step-by-Step Guide to Master Arduino Hardware and Software”, 2nd edition, ISBN-13: 978-1976097713."
+S4,BIOMEDICAL,BMT204,,"Albert D. Helfrick and William D. Cooper Modern , ""Modern electronic instrumentation and measurement techniques"", Prentice Hall India, 2008"
+S4,BIOMEDICAL,BMT204,,"Robert B. Northrop,""Analysis and Application of Analog Electronic Circuits to Biomedical Instrumentation "" CRC Press, 2017"
+S4,BIOMEDICAL,BMT206,,"Arthur C. Guyton “Textbook of Medical Physiology”, Prism Books (Pvt) Ltd & W.B. Saunders Company.1991"
+S4,BIOMEDICAL,BMT206,,"R S Khandpur”Handbook of Medical Instrumentation”, Tata McGraw Hill, New Delhi.2005."
+S4,BIOMEDICAL,MCN202,,
+S5,BIOMEDICAL,BMT301,,"Basha, Mahin. Analytical Techniques in Biochemistry. Humana Press, 2020."
+S5,BIOMEDICAL,BMT301,,"Kramme, Rüdiger, and Heike Kramme. ""Technology in Medicine: Its Role and Significance in Terms of Health Policy."" In Springer Handbook of Medical Technology, pp. 3-6. Springer, Berlin, Heidelberg, 2011."
+S5,BIOMEDICAL,BMT301,,"Webb, Andrew G. Principles of biomedical instrumentation. Cambridge University Press, 2018."
+S5,BIOMEDICAL,BMT303,,"Reddy, D. C. Biomedical signal processing: principles and techniques. McGraw-Hill, 2005."
+S5,BIOMEDICAL,BMT303,,"John G Proakis& Dimitris G Manolakis: Digital Signal Processing Principles, Algorithms and Applications, Prentice Hall of India, 2005"
+S5,BIOMEDICAL,BMT303,,"Akay, Metin. Biomedical signal processing. Academic press, 2012."
+S5,BIOMEDICAL,BMT305,,"Brindley, Keith. Sensors and transducers. CRC Press ILlc, 1988."
+S5,BIOMEDICAL,BMT305,,"Webster, John G., ed. Medical instrumentation: application and design. John Wiley & Sons, 2009."
+S5,BIOMEDICAL,BMT305,,"RS CCobbold, Transducers for BiomedicalInstruments,JohnWiley&Sons,1974"
+S5,BIOMEDICAL,BMT307,,"Fausett, Laurene V. Fundamentals of neural networks: architectures, algorithms and applications. Pearson Education India, 2006"
+S5,BIOMEDICAL,BMT307,,"Rajasekaran, Sanguthevar, and GA Vijayalakshmi Pai. Neural networks, fuzzy logic and genetic algorithm: synthesis and applications (with cd). PHI Learning Pvt. Ltd., 2003.."
+S5,BIOMEDICAL,BMT307,,"CharuC.Aggarwal “Neural Networks and Deep learning” Springer International Publishing, 2018"
+S5,BIOMEDICAL,HUT300,,
+S5,BIOMEDICAL,HUT310,,
+S5,BIOMEDICAL,MCN301,,
+S6,BIOMEDICAL,BMT302,,"Vladimir M. Zatsiorsky and Boris I. Prilutsky, Biomechanics of Skeletal Muscles, Human Kinetics, 2012."
+S6,BIOMEDICAL,BMT302,,"Susan J. Hall, Basic Biomechanics, McGraw-Hill, 6th ed, 2012."
+S6,BIOMEDICAL,BMT302,,"Irving P. Herman, Physics of the Human Body, Springer-Verlag Berlin Heidelberg, 2007."
+S6,BIOMEDICAL,BMT304,,"Bronzino, Joseph D., and Donald R. Peterson. Biomedical engineering fundamentals. CRC press, 2014."
+S6,BIOMEDICAL,BMT304,,"Kramme, Rüdiger, Klaus-Peter Hoffmann, and Robert Steven Pozos, eds. Springer handbook of medical technology. Springer Science & Business Media, 2011."
+S6,BIOMEDICAL,BMT304,,"Lei, Yuan. Medical Ventilator System Basics: A Clinical Guide. Oxford University Press, 2017."
+S6,BIOMEDICAL,BMT306,,"Hoskins, Peter R., Kevin Martin, and Abigail Thrush, eds. Diagnostic ultrasound Physics and Equipment CRC Press 2019"
+S6,BIOMEDICAL,BMT306,,"M Flower, Webb’s Physics of Medical Imaging, Taylor & Francis, 2016."
+S6,BIOMEDICAL,BMT306,,"Shah, N. Jon, ed. Hybrid MR-PET Imaging: Systems, Methods and Applications, Royal Society of Chemistry 2018."
+S7,BIOMEDICAL,BMT401,,"Jain Anil K, Fundamentals of Digital Image Processing, Prentice Hall of India. 1989"
+S7,BIOMEDICAL,BMT401,,"Gonzalez Rafel C, Woods Richard E, Digital Image Processing, 4th ed. Pearson. 2018"
+S7,BIOMEDICAL,MCN401,,
+S8,BIOMEDICAL,BMT402,,"John G Webster, Encyclopedia of Medical Devices and Instrumentation, Hoboken, NJ, 2nd Edition, 2006"
+S8,BIOMEDICAL,BMT402,,"James M Anderson, Biological Responses to Materials, Annual Review of Materials Research, 2001"
+S8,BIOMEDICAL,BMT402,,"Donald L. Wise, Biomaterials And Bioengineering Handbook Hardcover, Taylor & Francis, 2000"

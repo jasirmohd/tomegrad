@@ -89,8 +89,53 @@ body{
  .searchbox{
   margin-left: 100px;
   width: 500px;
-  background-color: black;
+  
  }
+
+ @media  (min-width:1190px) and (max-width:1230px) {
+  .searchbox{
+    margin-left: 50px;
+    width: 450px;
+  }
+}
+
+@media  (min-width:1120px) and (max-width:1190px) {
+  .searchbox{
+    margin-left: 50px;
+    width: 430px;
+  }
+}
+
+@media  (min-width:1070px) and (max-width:1120px) {
+  .searchbox{
+    margin-left: 50px;
+    width: 350px;
+  }
+}
+
+@media  (min-width:999px) and (max-width:1070px) {
+  .searchbox{
+    margin-left: 50px;
+    width: 320px;
+  }
+}
+
+@media  (min-width:500px) and (max-width:999px) {
+  .searchbox{
+    margin-left: 20px;
+    width: 300px;
+  }
+}
+@media  (min-width:300px) and (max-width:550px) {
+  .searchbox{
+    margin-left: 10px;
+    width: 250px;
+  }
+  .brand-name{
+    display: none;
+  }
+}
+
  .expertchat-sec{
   display: flex;
   align-items: center;
@@ -187,7 +232,7 @@ body{
     background-color: black;
     margin: 5px;
   } 
-  @media screen and (max-width:768px){
+  @media screen and (max-width:947px){
     .ul-links{
      display: none;
       
